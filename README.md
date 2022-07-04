@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.Rohit)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rohit-green)](https://www.Rohit)
 
 I'm
 Full Stack Solution Architect
